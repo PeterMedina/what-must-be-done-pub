@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Person One",
+		"photo": "http://via.placeholder.com/240x320",
+		"quote": "But I did it last week!"
+	},
+	{
+		"name": "Person Two",
+		"photo": "http://via.placeholder.com/240x320",
+		"quote": "Can I do this later?"
+	},
+	{
+		"name": "Person Three",
+		"photo": "http://via.placeholder.com/240x320",
+		"quote": "I'm going to need a drink first."
+	},
+	{
+		"name": "Person Four",
+		"photo": "http://via.placeholder.com/240x320",
+		"quote": "This is a bad idea."
+	},
+	{
+		"name": "Person Five",
+		"photo": "http://via.placeholder.com/240x320",
+		"quote": "Fine, I'll do it."
+	},
+	{
+		"name": "Person Six",
+		"photo": "http://via.placeholder.com/240x320",
+		"quote": "You owe me one."
+	}
+]

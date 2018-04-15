@@ -1,0 +1,9 @@
+@tailwind preflight;
+
+/**
+ * Add your custom CSS Here
+ * Make sure you lead with preflight
+ * and end with utilities
+ */
+
+@tailwind utilities;
